@@ -1,0 +1,6 @@
+\# Git Demo
+
+
+
+Gyakorló repository.
+
